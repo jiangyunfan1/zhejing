@@ -1,0 +1,1 @@
+极端批处理模拟：一个长序列加上多个极短序列，但这里用特殊标记表示：[LONG_SEQUENCE][SHORT1][SHORT2][SHORT3][SHORT4][SHORT5]

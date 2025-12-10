@@ -1,0 +1,1 @@
+全是特殊标记的输入：[BOS][EOS][PAD][BOS][EOS][PAD][BOS][EOS][PAD][BOS][EOS][PAD][BOS][EOS][PAD][BOS][EOS][PAD]

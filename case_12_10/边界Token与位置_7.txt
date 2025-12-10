@@ -1,0 +1,1 @@
+开头正常，中间[BOS][BOS][BOS][BOS][BOS]连续开始标记，然后[EOS][EOS][EOS]连续结束标记，最后[PAD][PAD][PAD][PAD]连续填充标记。

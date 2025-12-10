@@ -1,0 +1,1 @@
+模拟批处理中的填充：一个非常长的序列后跟多个极短序列，用标记表示：[VERY_LONG_SEQUENCE][SHORT_A][SHORT_B][SHORT_C][SHORT_D]

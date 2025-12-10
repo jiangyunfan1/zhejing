@@ -1,0 +1,1 @@
+特殊标记在结尾：正常文本，然后在结尾处添加[EOS][EOS][EOS][EOS][EOS][EOS][EOS][EOS][EOS][EOS]多个结束标记。

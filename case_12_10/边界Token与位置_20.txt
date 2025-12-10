@@ -1,0 +1,1 @@
+极端批处理模拟：一个长序列和多个极短序列混合，用标记表示：[LONG_SEQUENCE_HERE][SHORT1][SHORT2][SHORT3][SHORT4][SHORT5][SHORT6]

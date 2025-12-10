@@ -1,0 +1,1 @@
+全是特殊标记，但排列不同：[EOS][BOS][PAD][EOS][BOS][PAD][EOS][BOS][PAD][EOS][BOS][PAD][EOS][BOS][PAD]

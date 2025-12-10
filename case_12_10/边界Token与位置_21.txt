@@ -1,0 +1,1 @@
+特殊标记集中在中间：正常文本开始，然后[BOS][BOS][BOS][BOS][BOS][BOS][BOS][BOS][BOS][BOS]连续开始标记，然后正常文本继续。

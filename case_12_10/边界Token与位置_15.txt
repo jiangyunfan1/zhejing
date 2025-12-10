@@ -1,0 +1,1 @@
+在文本中间插入多个特殊标记：[BOS][BOS][BOS]然后正常文本[EOS][EOS][EOS]然后继续文本[PAD][PAD][PAD]结束。

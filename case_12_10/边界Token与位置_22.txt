@@ -1,0 +1,1 @@
+填充标记和文本混合：[PAD][PAD][PAD]一些文本[PAD][PAD][PAD]更多文本[PAD][PAD][PAD]结束[PAD][PAD][PAD]

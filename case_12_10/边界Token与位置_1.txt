@@ -1,0 +1,1 @@
+正常文本开头，然后[BOS][BOS][BOS][BOS][BOS][BOS]在中间插入多个开始标记，然后继续正常文本，最后以[EOS][EOS][EOS][EOS][EOS]结束。

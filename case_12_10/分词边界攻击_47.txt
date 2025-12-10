@@ -1,0 +1,1 @@
+   Sentence with multiple spaces   between   words   

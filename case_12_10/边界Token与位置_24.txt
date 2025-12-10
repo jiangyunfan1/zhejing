@@ -1,0 +1,1 @@
+模拟批处理中的极端情况：一个长序列和多个极短序列，用特殊标记表示：[LONG_SEQUENCE_START]...长内容...[LONG_SEQUENCE_END][SHORT_A][SHORT_B][SHORT_C]
