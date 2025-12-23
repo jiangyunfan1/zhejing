@@ -552,10 +552,13 @@ def validate_config(config):
     return True
 
 
-def main():
+def run_zhejing(config=None):
     """
     主函数
     """
+    if config:
+        CONFIG.update(config)
+
     print("开始自动并发请求...")
 
     # 验证配置
@@ -581,4 +584,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    run_zhejing()
