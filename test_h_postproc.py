@@ -142,7 +142,7 @@ def run_postproc(server_ip="localhost", port=1025, model_name="auto", is_long=Fa
     }
 
     # 初始化
-    content = "San Francisco is a"
+    content = "珍妮特的鸭子每天产16个蛋。她每天早上吃三个作为早餐，每天还用四个蛋为朋友们烤松饼。她把剩下的蛋每天拿到农贸市场以每个2美元的价格出售。她每天在农贸市场能赚多少钱？"
     if is_long:
         current_dir = os.path.dirname(os.path.abspath(__file__))
         input_file = os.path.join(current_dir, "datasets", "长输入_119k_小说续写.txt")
