@@ -143,7 +143,8 @@ def run_postproc(server_ip="localhost", port=1025, model_name="auto", is_long=Fa
     # 初始化
     content = "San Francisco is a"
     if is_long:
-        input_file = os.path.join("datasets", "长输入_119k_小说续写.txt")
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        input_file = os.path.join(current_dir, "datasets", "长输入_119k_小说续写.txt")
         content = read_input_file(input_file)
     base_request = create_base_request(content, model_name)
     requests_list = generate_requests(base_request, param_ranges)

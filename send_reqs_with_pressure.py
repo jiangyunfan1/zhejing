@@ -8,7 +8,8 @@ import time
 import random
 import threading
 from datetime import datetime
-from config_with_pressure import CONFIG
+#from config_with_pressure import CONFIG # ide run
+from zhejing.config_with_pressure import CONFIG
 
 # 全局变量，用于后台压力测试控制
 background_active = False
