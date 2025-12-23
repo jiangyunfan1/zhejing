@@ -337,8 +337,11 @@ def process_dataset_files(config):
     """
     global background_active
 
-    dataset_dir = "datasets"
-    results_dir = "results"
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    dataset_dir = os.path.join(current_dir, "datasets")
+    results_dir = os.path.join(current_dir, "results")
+    #dataset_dir = "datasets"
+    #results_dir = "results"
 
     # 创建结果目录
     if not os.path.exists(results_dir):
